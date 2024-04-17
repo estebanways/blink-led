@@ -1,2 +1,3 @@
 # blink-led
-Turns an LED on for one second, then off for one second, repeatedly
+
+Turns an LED on for one second, then off for one second, repeatedly.
